@@ -1,9 +1,9 @@
 # easyform2doc-pdf
 
 ## Tutorial en español
-Bienvenido! Si llegaste hasta acá probablemente buscás alguna forma fácil de crear bases de datos sin saber programación.
+Bienvenido! Si llegaste hasta acá probablemente buscás alguna forma fácil y gratuita de crear bases de datos automáticamente mientras trabajás confeccionando tus informes en texto de Word o PDF.
 
-## Con este código sencillo podrás:
+## Con este tutorial y código sencillo podrás:
 - Crear un Google Docs a partir de los datos ingresados en un Google Forms
 - Tener tus datos ingresados de Google Forms en un Google Spreadsheets
 - Automatizar la creación de PDFs de esos documentos creados
@@ -16,7 +16,7 @@ Bienvenido! Si llegaste hasta acá probablemente buscás alguna forma fácil de 
 
 ## Pasos a seguir:
 
-### 1) Crear una carpeta con los siguientes archivos:
+### 1) Crear una carpeta con los siguientes archivos (con nombres a libre elección):
  - El formulario de Google Forms
  - El spreadsheet vinculado al Google Forms
  - Un Google Doc como plantilla desde donde se crearán los archivos nuevos con los datos ingresados
