@@ -9,6 +9,8 @@ Bienvenido! Si llegaste hasta acá probablemente buscás alguna forma fácil y g
 - Automatizar la creación de PDFs de esos documentos creados
 - Automatizar el envío de emails con el PDF creado (opcional)
 
+## Video con ejemplo de su funcionalidad: [LINK](https://youtu.be/fReiQkWqrlE)
+
 ## Links de ejemplo: 
 - [Ejemplo de formulario](https://tinyurl.com/37xtzejc)
 - [Ejemplo de plantilla](https://tinyurl.com/mpdutz2e)
