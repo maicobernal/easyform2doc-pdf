@@ -105,3 +105,7 @@ Si no funciona el código, lo más probable es que haya un error de tipeo.
 Puede consultar los errores en la solapa EJECUCIONES.
 
 Si tiene algún inconveniente no dude en contactarme por esta plataforma o por email a mibernalmd@gmail.com.
+
+### Modificaciones potenciales:
+Sin mucha dificultad, es posible realizar cálculos con los datos ingresados, y que estos cálculos sean incluidos en el informe.
+Por ejemplo, ingresando altura y peso, calcular automáticamente el IMC (índice de masa corporal). Con esto uno evitaría errores manuales de cálculo y de tipeo a la hora de confeccionar informes. 
